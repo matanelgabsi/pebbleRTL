@@ -1,0 +1,9 @@
+Package: com.matanelgabsi.pebblertl
+Name: Pebble RTL
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak to fix RTL issues with pebble using iOS
+Maintainer: Matan Elgabsi
+Author: Matan Elgabsi
+Section: Tweaks
